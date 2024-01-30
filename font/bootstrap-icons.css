@@ -7,8 +7,8 @@
 @font-face {
   font-display: block;
   font-family: "bootstrap-icons";
-  src: url("./fonts/bootstrap-icons.woff2?41b518907ca55a14e4b730fa05f9b47e") format("woff2"),
-url("./fonts/bootstrap-icons.woff?41b518907ca55a14e4b730fa05f9b47e") format("woff");
+  src: url("./fonts/bootstrap-icons.woff2?b88194a1ec5ed6fb61bbf45cb89bbef6") format("woff2"),
+url("./fonts/bootstrap-icons.woff?b88194a1ec5ed6fb61bbf45cb89bbef6") format("woff");
 }
 
 .bi::before,
@@ -2079,3 +2079,4 @@ url("./fonts/bootstrap-icons.woff?41b518907ca55a14e4b730fa05f9b47e") format("wof
 .bi-karkaul::before { content: "\f7f9"; }
 .bi-alterainvest::before { content: "\f904"; }
 .bi-vkontakte::before { content: "\f905"; }
+.bi-reinvest::before { content: "\f906"; }
