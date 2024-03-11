@@ -2090,6 +2090,7 @@ $bootstrap-icons-map: (
   "pravilnye-rf": "\f907",
   "pravilni": "\f908",
   "tenchat": "\f909",
+  "default": "\f90a",
 );
 
 @each $icon, $codepoint in $bootstrap-icons-map {

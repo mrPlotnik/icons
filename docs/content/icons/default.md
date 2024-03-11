@@ -1,0 +1,5 @@
+---
+title: Default
+categories:
+tags:
+---
